@@ -15,10 +15,10 @@
 * Для начала решиться!
 * Придумать тему.
 * Оставить заявку в форме.
-* Ознакомиться с [требованиями к докладу](https://github.com/pitercss/a11y_docs/master/for-speakers.md#доклад).
+* Ознакомиться с [требованиями к докладу](https://github.com/pitercss/a11y_docs/blob/master/for-speakers.md#доклад).
 * Подобрать материал по теме доклада.
 * Подготовить доклад (20 минут, включая время на вопросы-ответы).
-* Подготовить [презентацию](https://github.com/pitercss/a11y_docs/master/for-speakers.md#презентация).
+* Подготовить [презентацию](https://github.com/pitercss/a11y_docs/blob/master/for-speakers.md#презентация).
 
 ## После принятия доклада
 
