@@ -32,7 +32,7 @@
 
 ## Как с нами связаться
 
-Пишите на [hi@pitercss.ru](mailto:hi@pitercss.ru).
+Пишите на [a11y@pitercss.ru](mailto:a11y@pitercss.ru).
 
 ## Документация
 
