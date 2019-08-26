@@ -26,7 +26,7 @@
 
 Презентация и выступление должны соответствовать [нормам поведения](code-of-conduct.md).
 
-[Оставить заявку](TODO).
+[Оставить заявку](https://docs.google.com/forms/d/e/1FAIpQLScG41GXZO7iC6gTz8qcixueQiF9QVk6z5lDjngrQsIsBVi2Cw/viewform).
 
 После получения заявки мы свяжемся с вами в течение недели.
 
