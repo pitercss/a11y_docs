@@ -26,7 +26,7 @@
 ## Кто организует митап
 
 - [Света Шарипова](https://twitter.com/privetdeadline), делает фронтенд по контракту.
-- [Василий Дудин](https://twitter.com/vasiliy_dudin), UX-проектировщик из SEMrush.
+- [Василий Дудин](https://twitter.com/vasiliy_dudin), UX-проектировщик.
 - [Татьяна Фокина](https://twitter.com/ta_fokina), верстальщица из JUG Ru Group.
 - [Вадим Макеев](https://twitter.com/pepelsbey), веб-евангелист из HTML Academy.
 - [Любовь Гулько](https://twitter.com/gucol_lu).
